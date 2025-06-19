@@ -6,8 +6,7 @@ import { RiPencilFill } from 'react-icons/ri'
 import { FaUserEdit } from 'react-icons/fa'
 import { BiLogOut } from 'react-icons/bi'
 import { BsBookmarks } from 'react-icons/bs'
-import SkeletonElement from '../Skeletons/SkeletonElement';
-import { AuthContext } from '../../Context/AuthContext';
+
 
 const Header = () => {
     const bool = localStorage.getItem("authToken") ? true : false
