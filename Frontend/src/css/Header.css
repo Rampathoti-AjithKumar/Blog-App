@@ -48,7 +48,7 @@ header .logo h5 {
 .addStory-link {
     color: #0063a5 !important;
     border: #0063a5 solid 2px;
-    padding: 4px 10px !important;
+    padding: 4px 10px;
     margin-right: 2rem;
     border-radius: 4px;
     margin-top: 7px;
@@ -57,7 +57,7 @@ header .logo h5 {
 .register-link {
     border: #0063a5 solid 2px;
     border-radius: 4px;
-    color: #0063a5 !important;
+    color: #0063a5 ;
 }
 
 .search-form {
@@ -99,7 +99,7 @@ header .logo h5 {
 }
 
 .search-form button.searchBtn {
-    color: #0063a5 !important;
+    color: #0063a5;
 }
 
 .search-form button i {
@@ -128,7 +128,7 @@ header .logo h5 {
 }
 
 .header-profile-wrapper:hover .sub-profile-wrap {
-    display: flex !important;
+    display: flex ;
 }
 
 .sub-profile-wrap {
