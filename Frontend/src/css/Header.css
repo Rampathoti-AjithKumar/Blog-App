@@ -46,7 +46,7 @@ header .logo h5 {
 }
 
 .addStory-link {
-    color: #0063a5 !important;
+    color: #0063a5 ;
     border: #0063a5 solid 2px;
     padding: 4px 10px;
     margin-right: 2rem;
